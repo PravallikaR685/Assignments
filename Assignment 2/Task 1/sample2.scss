@@ -1,0 +1,12 @@
+$color: rgb(250, 150, 245);
+$textcolor: black;
+$tablecolor: black;
+body {
+  background-color: $color;
+}
+table {
+  color: $tablecolor;
+}
+td {
+  color: $textcolor;
+}
